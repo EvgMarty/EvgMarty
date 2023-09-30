@@ -1,6 +1,5 @@
 ## <h1 align="center">👋 Hello! I'm Yevhen Martyniuk </h1>
 <h2 align="center">a frontend developer </h2>
-<h3 align="center">with passion for learning and creating. </h3>
 
 ---
 

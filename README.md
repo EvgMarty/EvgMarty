@@ -1,6 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martyniuk Yevhen
+## <h1 align="center">👋 Hello! I'm Yevhen Martyniuk </h1>
 
-## a frontend developer
+## <h2 align="center">a frontend developer </h2>
+
+## <h3 align="center">with passion for learning and creating. </h3>
 
 ---
 
@@ -31,7 +33,6 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/EvgMarty/badges/large)
-
 
 ### ⚙️ My GitHub Stats:
 

@@ -10,12 +10,13 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - Pre-Intermediate
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/evgmarty/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://t.me/YourTelegramUsername" target="_blank">
+  <a href="https://www.linkedin.com/in/evgmarty/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://t.me/martyynn" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:mrtevgeniy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
 </p>

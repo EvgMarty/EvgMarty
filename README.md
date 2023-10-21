@@ -8,10 +8,16 @@
 
 Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - Pre-Intermediate
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/evgmarty/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://t.me/YourTelegramUsername" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  </a>
 </p>
 
 </p>
@@ -29,10 +35,6 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - Pre-Intermediate
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a>  
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
-
-<h2 align="left">🤝 Socials:</h2>
-
-<p align="left"> <a href="https://github.com/EvgMarty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/evgmarty/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <h2 align="left">💻 Codewars:</h2>
 
